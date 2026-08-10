@@ -1,0 +1,6 @@
+{
+  "name": "Galaxy Shooter",
+  "description": "A retro Galaga-style space shooter game playable on both mobile touch and desktop screens with sound effects, wave formations, boss fights, and fighter upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
